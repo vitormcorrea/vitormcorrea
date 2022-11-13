@@ -8,6 +8,6 @@ I’m currently working on amazing projects with:
 - Tailwindcss
 - Livewire
 
-<br><br>
+<br>
 
 <img src="https://skillicons.dev/icons?i=git,html,css,tailwindcss,js,vuejs,vite,php,laravel,mysql,linux,aws" />
