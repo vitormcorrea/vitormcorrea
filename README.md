@@ -8,4 +8,4 @@ I’m currently working on amazing projects with:
 - Tailwindcss
 - Livewire
 
-[![My Skills](https://skillicons.dev/icons?i=html, css, js, laravel, internia, vuejs)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=git,html,css,js,laravel,inertia,vuejs" />
