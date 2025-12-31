@@ -10,4 +10,4 @@ I’m currently working on amazing projects with:
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=git,html,css,sass,tailwindcss,js,vuejs,alpinejs,vite,php,laravel,symfony,go,mysql,postgres,redis" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwindcss,js,vuejs,alpinejs,vite,php,laravel,symfony,go,mysql,postgres,redis" />
